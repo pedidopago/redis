@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/go-redis/redis/extra/rediscmd"
-	"github.com/go-redis/redis/v8"
+	"github.com/pedidopago/redis/v8"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/codes"
 	"go.opentelemetry.io/otel/label"
